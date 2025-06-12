@@ -23,8 +23,8 @@ Phân tích tập dữ liệu Rice2024
 
 ## Application
 
-### Mo ta
-
+### Mô tả
+undating...
 
 ### Yêu cầu
 
